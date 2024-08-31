@@ -1,0 +1,21 @@
+.search {
+  display: flex;
+  margin: 15px 0;
+}
+
+.searchBox  {
+    background: rgb(1, 136, 194);
+    border-radius: 10px;
+    color: white;
+  }
+.searchButton {
+  margin-left: 10px;
+  width: 100px;
+  border-radius: 10px;
+  background: rgb(189, 190, 191);
+}
+
+.clearButton {
+  border-radius: 10px;
+  background: rgb(189, 190, 191);
+}

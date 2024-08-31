@@ -1,0 +1,30 @@
+*{ scroll-behavior: smooth;}
+
+.app {
+  min-height: 100vh;
+  background-color: #003050;
+  color: white;
+  padding-top: 130px;
+  padding-bottom: 70px;
+}
+
+.bottomNavigation {
+  background-color: #003050;
+  box-shadow: 0px 1px 10px black;
+}
+
+@media(max-width: 700px) {
+  .App{
+      padding-top: 70px;
+  }
+}
+
+.PageTitle {
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding-bottom: 10px;
+}
+
+
